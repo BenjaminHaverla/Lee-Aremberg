@@ -1,6 +1,8 @@
 # Lee Arenberg (American actor) – beautiful conversation
 It was an unexpected meeting for me. When I saw him, I remembered his performance in the Once Upon a Time TV series as a dwarf from Snow White. It was shocking for me to see someone who is so far from my country in real life because I was younger when I saw him on TV.
 
+![RED MOVIE AWARDS Film Festival – Anual Ceremony](Images/ANUAL_CEREMONY.png)
+
 When we started to talk, he shared important advice for film directing:
 
 1. Remember that the story has to have 3 parts: **`Beginning`** | **`Middle`**  | **`The End`**
